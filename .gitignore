@@ -1,0 +1,14 @@
+obj
+bin
+appsettings.json
+*.db
+bootstrap*
+*jquery.
+Views
+wwwroot
+.suo
+v17
+ProjectEvaluation
+applicationhost.config
+FileContentIndex
+.dtbcache.v2
